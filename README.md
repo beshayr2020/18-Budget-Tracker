@@ -6,7 +6,7 @@ Budget-Tracker
 
 
 
-Here is a link to the Heroku deployed webpage: [https://trackerbudget.herokuapp.com/[]
+Here is a link to the Heroku deployed webpage: [https://trackerbudget.herokuapp.com/]
 
 
 ## Project Description:
