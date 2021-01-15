@@ -1,5 +1,3 @@
-# 18-Budget-Tracker-master
- 
 # 18-Budget-Tracker
 
 Budget-Tracker
